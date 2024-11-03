@@ -72,7 +72,7 @@
       <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
     </view>
     <userdata info="" customnodeid="" title="" comment="" nodeid="node3" author="" description="" copyright="" tags="Op informática" latitude="-5.508229" source="" datetime="31/10/2024 07:23" longitude="-47.491386" altitude="123.60" heading="0">
-      <mapcoords mapid="FloorPlan01" x_floorplan_percent="52.0211" y_floorplan_percent="56.896" y="-1.28883" x="0.406494"/>
+      <mapcoords mapid="FloorPlan01" x_floorplan_percent="52.7241" y_floorplan_percent="59.1088" y="-1.33896" x="0.411987"/>
     </userdata>
     <hotspots height="20" width="180" wordwrap="1">
       <label textalpha="1" borderradius="1" enabled="1" textcolor="0x000000" background="1" backgroundalpha="1" height="20" border="1" bordercolor="0x000000" width="180" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff"/>
